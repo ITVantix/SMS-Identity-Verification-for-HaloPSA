@@ -286,7 +286,7 @@ try {
         <div style="color: #2c3e50; margin-bottom: 3px;"><strong>Tenant:</strong> $TenantID</div>
     </div>
 
-    <div style="background: #fff; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #f1c40f;">
+    <div style="background: #fff; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #f1c40f; overflow-wrap: break-word;">
         <div style="font-size: 14px; color: #7f8c8d; margin-bottom: 5px;">Authentication Methods</div>
         <div style="color: #2c3e50; margin-bottom: 3px;"><strong>Methods:</strong> $AuthenticationMethods</div>
         <div style="color: #2c3e50;"><strong>Details:</strong> $AdditionalDetail</div>
